@@ -1,4 +1,4 @@
-### **Problem 1 : [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/submissions/1200567922/)**
+### **Problem 1 : [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)**
 
 **Algorithm 1:** 
 
